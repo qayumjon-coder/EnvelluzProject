@@ -1,1 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist+Pixel:ELSH@0..100&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 @import "tailwindcss";
+
+@theme {
+  --font-geist-pixel: "Geist Pixel", sans-serif;
+  --font-montserrat:  "Montserrat", sans-serif;
+;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
