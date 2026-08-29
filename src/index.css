@@ -4,7 +4,16 @@
 @theme {
   --font-geist-pixel: "Geist Pixel", sans-serif;
   --font-montserrat:  "Montserrat", sans-serif;
-;
+
+  --color-accent: #5729ff;
+  --color-background: #2000af;
+  --color-texts: #171f36;
+  --color-text-white: #e7edff;
+  --color-shadow: #ff006a44;
+  --color-light: #c1b0ff5d;
+  --color-light-solid: #c1b0ff;
+  --color-pnk: #ff006a;
+  --color-pnk-light: #ffa4ca;
 }
 
 .container {
@@ -12,4 +21,16 @@
   max-width: 1440px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.accent{
+  color: #5729ff;
+  color: #2000af;
+  color: #171f36;
+  color: #e7edff;
+  color: #c1b0ff;
+  color: #c1b0ff5d;
+  color: #ff006a44;
+  color: #ff006a;
+  color: #ffa4ca;
 }
