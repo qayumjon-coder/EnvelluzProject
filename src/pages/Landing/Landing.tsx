@@ -1,11 +1,21 @@
-import Header from "../../components/Header"
+import Header from "../../components/Header";
 
 const Landing = () => {
   return (
     <div>
-      <Header/>
-    </div>
-  )
-}
+      <Header />
 
-export default Landing
+      <section>
+        <div className="sup-container">
+          <div>
+            <img src="#" alt="Banner image" />
+          </div>
+        </div>
+
+        <div className="container"></div>
+      </section>
+    </div>
+  );
+};
+
+export default Landing;

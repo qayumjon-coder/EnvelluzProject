@@ -23,6 +23,13 @@
   padding: 0 20px;
 }
 
+.sup-container{
+  max-width: 1920px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 .accent{
   color: #5729ff;
   color: #2000af;
