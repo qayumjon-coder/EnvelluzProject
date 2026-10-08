@@ -18,6 +18,11 @@
   --color-pnk-light: #ffa4ca;
   --color-banner-bg: #0d0a41;
   --color-banner-light: #f3d2da;
+  --color-page-bg: #0a0720;
+}
+
+body{
+  background-color: #0a0720;
 }
 
 .container {
@@ -35,8 +40,9 @@
 }
 
 .accent{
-  color: #171f36;
+  color: #0a0720;
   color: #0d0a41;
+  color: #171f36;
   color: #2000af;
   color: #5729ff;
   color: #c1b0ff;
