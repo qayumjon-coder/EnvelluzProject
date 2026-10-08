@@ -55,7 +55,7 @@ const Header = () => {
           <div className="flex items-center ">
             <a
               href="#"
-              className="relative inline-block py-2.5 px-4 rounded-full font-medium text-text-white overflow-hidden bg-pnk bg-linear-to-b from-accent from-30% to-pnk/20 to-50% bg-[length:100%_200%] bg-top hover:bg-bottom hover:scale-105 transition-all duration-700 ease-in-out text-shadow-lg/80 text-shadow-shadow/60 shadow-texts/10 shadow-md active:scale-100"            >
+              className="relative inline-block py-2.5 px-4 rounded-full font-medium text-text-white overflow-hidden bg-pnk bg-linear-to-b from-accent from-30% to-pnk/20 to-50% bg-size-[100%_200%] bg-top hover:bg-bottom hover:scale-105 transition-all duration-700 ease-in-out text-shadow-lg/80 text-shadow-shadow/60 shadow-texts/10 shadow-md active:scale-100"            >
               <i className="fa-solid fa-hashtag"></i> Gallery
             </a>
           </div>

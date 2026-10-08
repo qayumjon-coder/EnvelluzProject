@@ -1,9 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Geist+Pixel:ELSH@0..100&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
 @import "tailwindcss";
 
 @theme {
   --font-geist-pixel: "Geist Pixel", sans-serif;
   --font-montserrat:  "Montserrat", sans-serif;
+  --font-jersey: "Jersey 20", sans-serif;
 
   --color-accent: #5729ff;
   --color-background: #2000af;
@@ -14,6 +16,8 @@
   --color-light-solid: #c1b0ff;
   --color-pnk: #ff006a;
   --color-pnk-light: #ffa4ca;
+  --color-banner-bg: #0d0a41;
+  --color-banner-light: #f3d2da;
 }
 
 .container {
@@ -31,13 +35,13 @@
 }
 
 .accent{
-  color: #5729ff;
-  color: #2000af;
   color: #171f36;
-  color: #e7edff;
+  color: #0d0a41;
+  color: #2000af;
+  color: #5729ff;
   color: #c1b0ff;
-  color: #c1b0ff5d;
-  color: #ff006a44;
-  color: #ff006a;
+  color: #e7edff;
+  color: #f3d2da;
   color: #ffa4ca;
+  color: #ff006a;
 }
